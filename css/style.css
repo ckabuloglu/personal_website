@@ -1,0 +1,92 @@
+#header {
+    background-image: url('../img/bg.jpg');
+}
+
+.header {
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.skills {
+    background-color: #BDBDBD;
+}
+
+.icons {
+    background-color: #BDBDBD;
+}
+
+table, th, td {
+    border: 0px;
+}
+
+.portfolio {
+    background-color: #585858;
+    color: white;
+}
+
+.port_small {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+#port_div1 {
+    text-align: center;
+    align-content: center;
+}
+
+#port_div2 {
+    text-align: center;
+    align-content: center;
+}
+
+#port_div3 {
+    text-align: center;
+    align-content: center;
+}
+
+.port {
+    padding-top: 20px;
+}
+
+.port:hover {
+    background-color: #D8D8D8;
+}
+
+#contact {
+    display: none;
+    text-align: center;
+    align-content: center;
+    padding-top:30px;
+    padding-bottom: 30px;
+}
+
+#port_text1 {
+    padding-top: 115px;
+}
+
+#port_text2 {
+    padding-top: 90px;
+}
+
+#port_text3 {
+    padding-top: 100px;
+}
+
+#port_app {
+    height: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#port1 {
+    display:none;
+}
+
+#port2 {
+    display:none;
+}
+
+#port3 {
+    display:none;
+}
